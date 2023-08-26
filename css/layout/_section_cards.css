@@ -1,0 +1,114 @@
+.cards {
+    display: flex;
+    gap: 180px;
+    padding-left: 186px;
+    border-bottom: 3px ridge rgb(175, 90, 20);
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.image__cards {
+    width: 120px;
+}
+
+.cardsDois {
+    display: flex;
+    gap: 120px;
+    border-bottom: 3px ridge rgb(175, 90, 20);
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.cardapio{
+    background: radial-gradient(circle, rgba(208,87,21,1) 0%, rgba(73,39,8,1) 72%);
+}
+
+#titulo_cardapio {
+        font-family: "Great Vibes";
+        font-size: 3rem;
+        background-image: linear-gradient(0deg, #c78a18, #413e3e);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        text-align: center;
+        padding-top: 40px;
+        border-bottom: 6px ridge rgb(175, 90, 20);
+        padding-bottom: 20px;
+}
+
+#titulo_sobre{
+        font-family: "Great Vibes";
+        font-size: 3rem;
+        background-image: linear-gradient(0deg, #ffb62e, #574e4e);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        text-align: center;
+        padding-top: 40px;
+        border-bottom: 6px ridge rgb(175, 90, 20);
+        padding-bottom: 20px;
+}
+
+#titulo_fundo{
+    background: radial-gradient(circle, rgba(208,87,21,1) 0%, rgba(73,39,8,1) 72%);
+}
+
+#texto_pizzaria{
+    padding-top: 30px;
+    background: radial-gradient(circle, rgba(208,87,21,1) 0%, rgba(73,39,8,1) 72%);
+    font-family: "Great Vibes";
+    font-size: 40px;
+    text-align: center;
+    color:rgb(209, 168, 135);
+    padding-bottom: 30px;
+}
+
+footer {
+	background-color: #000000;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+    margin-top: 10px;
+}
+
+.txt_foo {
+    color: white;
+    padding-right: 20px;
+    text-decoration:none;
+}
+
+.img_loc{
+    width: 140px;
+    height: 140px;
+    padding-left: 45%;
+    text-decoration:line-through;
+    border-radius: 50%;
+}
+
+.loc{
+    background: radial-gradient(circle, rgba(208,87,21,1) 0%, rgba(73,39,8,1) 72%);
+}
+
+#nome_loc{
+    padding-top: 30px;
+    font-family: "Great Vibes";
+    font-size: 40px;
+    text-align: center;
+    color:rgb(209, 168, 135);
+    padding-bottom: 30px;
+    border-bottom: 6px ridge rgb(175, 90, 20);
+}
+
+
+iframe{
+    padding-top: 40px;
+    padding-left: 29%;
+    padding-bottom: 50px;
+}
+
+#but_card{
+    text-decoration: none;
+}

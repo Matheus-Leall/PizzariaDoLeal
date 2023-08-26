@@ -1,0 +1,27 @@
+button{
+    width: 150px;
+    height: 50px;
+    background-color: var(--color-black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    border-radius: 8px;
+    cursor:pointer;
+}
+button:hover {
+    background-color: rgb(74, 74, 78);
+}
+
+.bot{
+    width: 150px;
+    height: 50px;
+    background: radial-gradient(circle, rgb(122, 52, 14) 0%, rgb(194, 104, 20) 70%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    border-radius: 8px;
+    cursor:pointer;
+}
+
